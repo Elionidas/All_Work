@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "demolab10.6", "demolab10.6\demolab10.6.vcxproj", "{4162F9DE-9FCF-404C-9676-5FD178382622}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4162F9DE-9FCF-404C-9676-5FD178382622}.Debug|x64.ActiveCfg = Debug|x64
+		{4162F9DE-9FCF-404C-9676-5FD178382622}.Debug|x64.Build.0 = Debug|x64
+		{4162F9DE-9FCF-404C-9676-5FD178382622}.Debug|x86.ActiveCfg = Debug|Win32
+		{4162F9DE-9FCF-404C-9676-5FD178382622}.Debug|x86.Build.0 = Debug|Win32
+		{4162F9DE-9FCF-404C-9676-5FD178382622}.Release|x64.ActiveCfg = Release|x64
+		{4162F9DE-9FCF-404C-9676-5FD178382622}.Release|x64.Build.0 = Release|x64
+		{4162F9DE-9FCF-404C-9676-5FD178382622}.Release|x86.ActiveCfg = Release|Win32
+		{4162F9DE-9FCF-404C-9676-5FD178382622}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF699410-F772-4B67-8CB1-B5217A9665C0}
+	EndGlobalSection
+EndGlobal

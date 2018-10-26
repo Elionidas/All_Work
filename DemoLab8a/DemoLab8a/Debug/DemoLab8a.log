@@ -1,0 +1,4 @@
+﻿  Source.c
+c:\users\dotlaptop\source\repos\demolab8a\demolab8a\source.c(28): error C2143: syntax error: missing ')' before '{'
+c:\users\dotlaptop\source\repos\demolab8a\demolab8a\source.c(29): warning C4047: 'return': 'int' differs in levels of indirection from 'char [15]'
+c:\users\dotlaptop\source\repos\demolab8a\demolab8a\source.c(35): warning C4047: 'return': 'int' differs in levels of indirection from 'char [17]'
