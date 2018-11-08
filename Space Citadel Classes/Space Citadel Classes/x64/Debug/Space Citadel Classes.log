@@ -1,0 +1,24 @@
+﻿  MainGame.cpp
+c:\users\dotlaptop\source\repos\space citadel classes\space citadel classes\printmap.h(12): warning C4101: 'joyinfoex': unreferenced local variable
+c:\users\dotlaptop\source\repos\space citadel classes\space citadel classes\display.h(243): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dotlaptop\source\repos\space citadel classes\space citadel classes\display.h(283): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dotlaptop\source\repos\space citadel classes\space citadel classes\display.h(302): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dotlaptop\source\repos\space citadel classes\space citadel classes\display.h(321): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dotlaptop\source\repos\space citadel classes\space citadel classes\display.h(342): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dotlaptop\source\repos\space citadel classes\space citadel classes\display.h(360): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dotlaptop\source\repos\space citadel classes\space citadel classes\display.h(368): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dotlaptop\source\repos\space citadel classes\space citadel classes\display.h(376): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dotlaptop\source\repos\space citadel classes\space citadel classes\display.h(391): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dotlaptop\source\repos\space citadel classes\space citadel classes\display.h(399): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dotlaptop\source\repos\space citadel classes\space citadel classes\display.h(407): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dotlaptop\source\repos\space citadel classes\space citadel classes\display.h(416): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dotlaptop\source\repos\space citadel classes\space citadel classes\spacemap.h(55): warning C4101: 'lastx': unreferenced local variable
+c:\users\dotlaptop\source\repos\space citadel classes\space citadel classes\spacemap.h(55): warning C4101: 'lasty': unreferenced local variable
+c:\users\dotlaptop\source\repos\space citadel classes\space citadel classes\combat.h(2794): warning C4129: ' ': unrecognized character escape sequence
+c:\users\dotlaptop\source\repos\space citadel classes\space citadel classes\combat.h(2904): warning C4129: '_': unrecognized character escape sequence
+c:\users\dotlaptop\source\repos\space citadel classes\space citadel classes\combat.h(2916): warning C4129: '(': unrecognized character escape sequence
+c:\users\dotlaptop\source\repos\space citadel classes\space citadel classes\intro.h(1857): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\dotlaptop\source\repos\space citadel classes\space citadel classes\display.h(251): warning C4715: 'printHealth': not all control paths return a value
+c:\users\dotlaptop\source\repos\space citadel classes\space citadel classes\display.h(291): warning C4715: 'printXp': not all control paths return a value
+c:\users\dotlaptop\source\repos\space citadel classes\space citadel classes\display.h(351): warning C4715: 'printGold': not all control paths return a value
+  Space Citadel Classes.vcxproj -> C:\Users\DOTlaptop\source\repos\Space Citadel Classes\x64\Debug\Space Citadel Classes.exe

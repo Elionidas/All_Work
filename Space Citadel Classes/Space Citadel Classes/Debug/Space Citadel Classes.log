@@ -1,0 +1,9 @@
+﻿  MainGame.cpp
+c:\users\dotlaptop\source\repos\space citadel classes\space citadel classes\intro.h(171): warning C4018: '<': signed/unsigned mismatch
+c:\users\dotlaptop\source\repos\space citadel classes\space citadel classes\printmap.h(12): warning C4101: 'joyinfoex': unreferenced local variable
+c:\users\dotlaptop\source\repos\space citadel classes\space citadel classes\spacemap.h(48): warning C4101: 'lastx': unreferenced local variable
+c:\users\dotlaptop\source\repos\space citadel classes\space citadel classes\spacemap.h(48): warning C4101: 'lasty': unreferenced local variable
+c:\users\dotlaptop\source\repos\space citadel classes\space citadel classes\display.h(290): warning C4715: 'printXp': not all control paths return a value
+c:\users\dotlaptop\source\repos\space citadel classes\space citadel classes\display.h(250): warning C4715: 'printHealth': not all control paths return a value
+c:\users\dotlaptop\source\repos\space citadel classes\space citadel classes\display.h(350): warning C4715: 'printGold': not all control paths return a value
+  Space Citadel Classes.vcxproj -> C:\Users\DOTlaptop\source\repos\Space Citadel Classes\Debug\Space Citadel Classes.exe
