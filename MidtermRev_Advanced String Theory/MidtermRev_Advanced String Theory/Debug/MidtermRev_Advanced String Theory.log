@@ -1,0 +1,4 @@
+﻿  EnglishFunctions.c
+c:\users\dotlaptop\source\repos\midtermrev_advanced string theory\midtermrev_advanced string theory\englishfunctions.c(82): warning C4013: 'memmove' undefined; assuming extern returning int
+c:\users\dotlaptop\source\repos\midtermrev_advanced string theory\midtermrev_advanced string theory\englishfunctions.c(82): warning C4013: 'strlen' undefined; assuming extern returning int
+  MidtermRev_Advanced String Theory.vcxproj -> C:\Users\DOTlaptop\source\repos\MidtermRev_Advanced String Theory\Debug\MidtermRev_Advanced String Theory.exe

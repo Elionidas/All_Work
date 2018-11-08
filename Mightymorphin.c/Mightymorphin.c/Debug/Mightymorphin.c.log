@@ -1,0 +1,3 @@
+﻿  Source.c
+c:\users\dotlaptop\source\repos\mightymorphin.c\mightymorphin.c\source.c(16): warning C4013: 'system' undefined; assuming extern returning int
+  Mightymorphin.c.vcxproj -> c:\users\dotlaptop\source\repos\Mightymorphin.c\Debug\Mightymorphin.c.exe

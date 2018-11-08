@@ -1,0 +1,25 @@
+﻿  Source.c
+c:\users\dotlaptop\source\repos\othersurfinbird.c\othersurfinbird.c\source.c(315): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[1024]'
+c:\users\dotlaptop\source\repos\othersurfinbird.c\othersurfinbird.c\source.c(315): warning C4024: 'find_the_word': different types for formal and actual parameter 1
+c:\users\dotlaptop\source\repos\othersurfinbird.c\othersurfinbird.c\source.c(315): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[256]'
+c:\users\dotlaptop\source\repos\othersurfinbird.c\othersurfinbird.c\source.c(315): warning C4024: 'find_the_word': different types for formal and actual parameter 2
+c:\users\dotlaptop\source\repos\othersurfinbird.c\othersurfinbird.c\source.c(315): warning C4047: 'function': 'int *' differs in levels of indirection from 'char *[256]'
+c:\users\dotlaptop\source\repos\othersurfinbird.c\othersurfinbird.c\source.c(315): warning C4024: 'find_the_word': different types for formal and actual parameter 3
+c:\users\dotlaptop\source\repos\othersurfinbird.c\othersurfinbird.c\source.c(286): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char'
+c:\users\dotlaptop\source\repos\othersurfinbird.c\othersurfinbird.c\source.c(286): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+c:\users\dotlaptop\source\repos\othersurfinbird.c\othersurfinbird.c\source.c(287): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char'
+c:\users\dotlaptop\source\repos\othersurfinbird.c\othersurfinbird.c\source.c(287): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+c:\users\dotlaptop\source\repos\othersurfinbird.c\othersurfinbird.c\source.c(290): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char'
+c:\users\dotlaptop\source\repos\othersurfinbird.c\othersurfinbird.c\source.c(290): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+c:\users\dotlaptop\source\repos\othersurfinbird.c\othersurfinbird.c\source.c(291): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char'
+c:\users\dotlaptop\source\repos\othersurfinbird.c\othersurfinbird.c\source.c(291): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+c:\users\dotlaptop\source\repos\othersurfinbird.c\othersurfinbird.c\source.c(294): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+c:\users\dotlaptop\source\repos\othersurfinbird.c\othersurfinbird.c\source.c(295): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+c:\users\dotlaptop\source\repos\othersurfinbird.c\othersurfinbird.c\source.c(298): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+c:\users\dotlaptop\source\repos\othersurfinbird.c\othersurfinbird.c\source.c(299): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+c:\users\dotlaptop\source\repos\othersurfinbird.c\othersurfinbird.c\source.c(302): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char'
+c:\users\dotlaptop\source\repos\othersurfinbird.c\othersurfinbird.c\source.c(302): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+c:\users\dotlaptop\source\repos\othersurfinbird.c\othersurfinbird.c\source.c(303): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char'
+c:\users\dotlaptop\source\repos\othersurfinbird.c\othersurfinbird.c\source.c(303): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+c:\users\dotlaptop\source\repos\othersurfinbird.c\othersurfinbird.c\source.c(329): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+  OtherSurfinBird.c.vcxproj -> c:\users\dotlaptop\source\repos\OtherSurfinBird.c\Debug\OtherSurfinBird.c.exe
