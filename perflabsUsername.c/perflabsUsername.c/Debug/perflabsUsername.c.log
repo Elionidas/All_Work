@@ -1,0 +1,6 @@
+﻿  Source.c
+c:\users\dotlaptop\source\repos\perflabsusername.c\perflabsusername.c\source.c(34): warning C4133: 'function': incompatible types - from 'char [256]' to 'FILE *const '
+c:\users\dotlaptop\source\repos\perflabsusername.c\perflabsusername.c\source.c(34): warning C4133: 'function': incompatible types - from 'FILE *' to 'const char *const '
+c:\users\dotlaptop\source\repos\perflabsusername.c\perflabsusername.c\source.c(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\dotlaptop\source\repos\perflabsusername.c\perflabsusername.c\source.c(84): warning C4018: '<': signed/unsigned mismatch
+  perflabsUsername.c.vcxproj -> c:\users\dotlaptop\source\repos\perflabsUsername.c\Debug\perflabsUsername.c.exe
