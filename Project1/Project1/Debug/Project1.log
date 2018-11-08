@@ -1,0 +1,7 @@
+﻿  mecha.cpp
+c:\users\dotlaptop\source\repos\project1\project1\weapon.h(216): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\dotlaptop\source\repos\project1\project1\weapon.h(264): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\dotlaptop\source\repos\project1\project1\mecha.h(212): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\dotlaptop\source\repos\project1\project1\mecha.cpp(208): warning C4018: '<': signed/unsigned mismatch
+c:\users\dotlaptop\source\repos\project1\project1\mecha.cpp(213): warning C4018: '<': signed/unsigned mismatch
+  Project1.vcxproj -> C:\Users\DOTlaptop\source\repos\Project1\Debug\Project1.exe

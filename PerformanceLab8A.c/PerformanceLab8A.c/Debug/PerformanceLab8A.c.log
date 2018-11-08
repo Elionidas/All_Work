@@ -1,0 +1,4 @@
+﻿  Source.c
+c:\users\dotlaptop\source\repos\performancelab8a.c\performancelab8a.c\source.c(90): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char *'
+c:\users\dotlaptop\source\repos\performancelab8a.c\performancelab8a.c\source.c(122): warning C4716: 'clearInput': must return a value
+  PerformanceLab8A.c.vcxproj -> c:\users\dotlaptop\source\repos\PerformanceLab8A.c\Debug\PerformanceLab8A.c.exe

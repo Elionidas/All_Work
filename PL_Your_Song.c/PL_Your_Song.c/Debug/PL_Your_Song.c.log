@@ -1,0 +1,3 @@
+﻿  Source.c
+c:\users\dotlaptop\source\repos\pl_your_song.c\pl_your_song.c\source.c(28): warning C4013: 'system' undefined; assuming extern returning int
+  PL_Your_Song.c.vcxproj -> c:\users\dotlaptop\source\repos\PL_Your_Song.c\Debug\PL_Your_Song.c.exe

@@ -1,0 +1,3 @@
+﻿  Source.c
+c:\users\dotlaptop\source\repos\performancelab11.1\performancelab11.1\source.c(27): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 2 has type 'int *'
+  performancelab11.1.vcxproj -> C:\Users\DOTlaptop\source\repos\performancelab11.1\Debug\performancelab11.1.exe
