@@ -1,0 +1,10 @@
+﻿  Source.c
+c:\users\dotlaptop\source\repos\icecream.c\icecream.c\source.c(24): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+c:\users\dotlaptop\source\repos\icecream.c\icecream.c\source.c(28): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+c:\users\dotlaptop\source\repos\icecream.c\icecream.c\source.c(36): warning C4047: '<': 'int *' differs in levels of indirection from 'int'
+c:\users\dotlaptop\source\repos\icecream.c\icecream.c\source.c(39): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+c:\users\dotlaptop\source\repos\icecream.c\icecream.c\source.c(44): warning C4047: 'return': 'int *' differs in levels of indirection from 'int'
+c:\users\dotlaptop\source\repos\icecream.c\icecream.c\source.c(57): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+c:\users\dotlaptop\source\repos\icecream.c\icecream.c\source.c(60): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+c:\users\dotlaptop\source\repos\icecream.c\icecream.c\source.c(62): warning C4002: too many actual parameters for macro 'get'
+  Icecream.c.vcxproj -> C:\Users\DOTlaptop\source\repos\Icecream.c\Debug\Icecream.c.exe

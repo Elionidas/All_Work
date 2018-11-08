@@ -1,0 +1,5 @@
+﻿  mecha.cpp
+c:\users\dotlaptop\source\repos\mechawars.cpp\mechawars.cpp\mecha_subs.h(405): warning C4552: '-': operator has no effect; expected operator with side-effect
+c:\users\dotlaptop\source\repos\mechawars.cpp\mechawars.cpp\mecha_subs.h(423): warning C4552: '-': operator has no effect; expected operator with side-effect
+c:\users\dotlaptop\source\repos\mechawars.cpp\mechawars.cpp\mecha_subs.h(438): warning C4715: 'Player::StatusCheck': not all control paths return a value
+  MechaWars.cpp.vcxproj -> C:\Users\DOTlaptop\source\repos\MechaWars.cpp\Debug\MechaWars.cpp.exe

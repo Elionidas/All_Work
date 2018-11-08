@@ -1,0 +1,6 @@
+﻿  Source.c
+c:\users\dotlaptop\source\repos\haystack.c\haystack.c\source.c(21): warning C4010: single-line comment contains line-continuation character
+c:\users\dotlaptop\source\repos\haystack.c\haystack.c\source.c(64): warning C4010: single-line comment contains line-continuation character
+c:\users\dotlaptop\source\repos\haystack.c\haystack.c\source.c(65): warning C4010: single-line comment contains line-continuation character
+c:\users\dotlaptop\source\repos\haystack.c\haystack.c\source.c(69): warning C4010: single-line comment contains line-continuation character
+  haystack.c.vcxproj -> C:\Users\DOTlaptop\source\repos\haystack.c\Debug\haystack.c.exe
