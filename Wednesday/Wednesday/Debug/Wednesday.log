@@ -1,0 +1,9 @@
+﻿  Main.cpp
+c:\users\dotlaptop\source\repos\wednesday\wednesday\main.cpp(119): warning C4018: '<': signed/unsigned mismatch
+c:\users\dotlaptop\source\repos\wednesday\wednesday\main.cpp(58): warning C4018: '<': signed/unsigned mismatch
+  c:\users\dotlaptop\source\repos\wednesday\wednesday\main.cpp(78): note: see reference to function template instantiation 'void populate_buffer<int>(T *,::size_t)' being compiled
+          with
+          [
+              T=int
+          ]
+  Wednesday.vcxproj -> c:\users\dotlaptop\source\repos\Wednesday\Debug\Wednesday.exe
